@@ -1,6 +1,6 @@
 body{
-    background-color: hsl(180, 71%, 84%);
-    color: darkslateblue
+    background-color: hsl(0, 0%, 100%);
+    color: darkslateblue;
     margin: 5px;
     padding: 2px;
     font-family: Arial, Helvetica, sans-serif
@@ -11,14 +11,16 @@ footer {
     background-color: gainsboro;
 }
 h1{
-    color: lightpink;
-    text-decoration-line: underline;}
-    h3{
-        color: rgb(68, 100, 245);
-        text-decoration-line: underline;}
-        h4{
-            color: rgb(5, 202, 252);
-            text-decoration-line: underline;
+    color: black;
+    
+    font-size: 38px;
+}
+
+h3{
+        color: rgb(61, 125, 243);
+ }
+h4{
+            color: rgb(5, 202, 252); 
 }
 p{
     text-align: justify;
